@@ -1,0 +1,6 @@
+{
+  "name": "A Little Something, For You",
+  "description": "An interactive animated birthday greeting featuring a bow-and-arrow heart reveal and a blooming heart tree.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
